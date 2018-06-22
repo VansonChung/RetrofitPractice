@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RetrofitPractice</string>
+    <string name="city_name">City : %1$s</string>
+    <string name="city_longitude">Longitude : %1$.2f</string>
+    <string name="city_latitude">Latitude : %1$.2f</string>
+    <string name="city_weather">Weather : %1$s</string>
+    <string name="city_temperature">Temperature : %1$.2f</string>
+    <string name="city_humidity">Humidity : %1$d</string>
+    <string name="city_wind_speed">Wind speed : %1$.2f</string>
+    <string name="search">Search</string>
+</resources>
